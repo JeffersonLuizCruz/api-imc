@@ -19,7 +19,7 @@ spring.jackson.default-property-inclusion= non-null
 ```
 
 
-#### Rota [POST] - Inserir um comentário na ordem de serviço
+#### Rota [POST]
 - [POST] http://localhost:8080/api/v1/imc
 
 #### Body:
